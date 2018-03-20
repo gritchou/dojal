@@ -1,0 +1,17 @@
+{
+    "name": "coding-dojo-webextensions",
+    "version": "0.0.1",
+    "description": "Coding Dojo Browser Extensions",
+    "repository": {
+      "type": "git",
+      "url": "git@oogit.oodrive.net:codingdojo/codingdojo-web-extensions.git"
+    },
+    "bugs": {
+      "url": "https://oogit.oodrive.net/codingdojo/codingdojo-web-extensions/issues"
+    },
+    "homepage": "https://oogit.oodrive.net/codingdojo/codingdojo-web-extensions",
+    "devDependencies": {
+      "@types/chrome": "0.0.59"
+    }
+  }
+  
