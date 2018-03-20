@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "Coding Dojal",
+    "version": "0.0.1",
+    "description": "Use options page to configure giphy request",
+    "homepage_url": "https://oogit.oodrive.net/codingdojo/codingdojo-web-extensions",
+    "icons": {
+        "128": "icons/owl.png"
+    },
+
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+
+    "permissions": [
+        "contextMenus"
+    ]
+
+}
